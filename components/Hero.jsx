@@ -15,10 +15,10 @@ function Hero() {
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ duration: 1.5, type: 'spring', stiffness: 100, delay: 0.5 }}
             viewport={{ once: true }}
-            className="mx-auto max-w-2xl text-center cursor-default z-50 pb-60"
+            className="mx-auto max-w-2xl text-center cursor-default pb-60 z-10"
           >
             <Image src={Logo} width={200} height={200} alt="Cover Picture" className='mx-auto' />
-            <h1 className="select-none text-3xl font-extrabold sm:text-5xl z-50">
+            <h1 className="select-none text-3xl font-extrabold sm:text-5xl">
               Google Developer Student Club ABESIT </h1>
           </motion.div>
         </div>

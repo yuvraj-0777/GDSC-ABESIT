@@ -17,5 +17,3 @@ FORK [THIS Repostiory](https://github.com/gdsc-abesit/GDSC-ABESIT) and start wor
 
 
 ```
-
----

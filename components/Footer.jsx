@@ -39,8 +39,8 @@ const Footer = () => {
                         <div><Link className='font-semibold' href="#">Community Guidelines</Link></div>
                     </div>
                 </div>
-                <hr class="h-px my-4 bg-gray-400 border-0" />
-                <div className='flex justify-between items-center'>
+                <hr className="h-px my-4 bg-gray-400 border-0" />
+                <div className='flex justify-between items-center select-none'>
                     <div className="font-semibold">
                         <div className="flex items-center">
                             <Image src={Logo} alt="logo" width={60} />

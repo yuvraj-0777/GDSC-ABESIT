@@ -40,7 +40,7 @@ const Footer = () => {
                     </div>
                 </div>
                 <hr className="h-px my-4 bg-gray-400 border-0" />
-                <div className='flex justify-between items-center'>
+                <div className='flex justify-between items-center select-none'>
                     <div className="font-semibold">
                         <div className="flex items-center">
                             <Image src={Logo} alt="logo" width={60} />

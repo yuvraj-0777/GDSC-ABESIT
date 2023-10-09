@@ -69,7 +69,15 @@ function Contributors() {
        social2: "https://www.linkedin.com/in/khushisharma4/",
        desc: "Always laughing at lame jokes, hehe."
      },
-
+    {
+        id:2002900100107 ,
+        name: "Prakhar Sharma",
+        img: "https://media.licdn.com/dms/image/D4D35AQHgWi8m7f6mhg/profile-framedphoto-shrink_200_200/0/1694496829155?e=1697454000&v=beta&t=4oN4nz1IDv_IYDv9A7lTN8UcfsvjqqYOjCm_CRCcQt8",
+        role: "contributer",
+        social1: "www.linkedin.com/in/prakhar-sharma-96a831272",
+        social2: "",
+        desc: "Java developer,learner"
+    },
       {
         id: "2021CSAi034",
         name: "Prerit Saxena",
@@ -90,16 +98,6 @@ function Contributors() {
           desc: "Once a nerd, always a nerd."
         },
 
-    // {
-    //     id: ,
-    //     name: "",
-    //     img: "",
-    //     role: "",
-    //     social1: "",
-    //     social2: "",
-    //     desc: ""
-    //   },
-
     {
       id: 2202901540039,
           name: "Ashiya Rana",
@@ -119,17 +117,7 @@ function Contributors() {
         desc: "Just testing things ;) "
     },
 
-// Use this template below
 
-    // {
-    //     id: 2202901540039,
-    //     name: "",
-    //     img: "",
-    //     role: "",
-    //     social1: "",
-    //     social2: "",
-    //     desc: ""
-    //   },
      {
         id: 2102901540039,
         name: "chirag sharma",
@@ -220,6 +208,18 @@ function Contributors() {
         social2: "https://www.linkedin.com/in/not-darshil-kumar/",
         desc: "Life is too short for bad vibes."
       },
+    
+    // Use this template below
+
+    // {
+    //     id: 2202901540039,
+    //     name: "",
+    //     img: "",
+    //     role: "",
+    //     social1: "",
+    //     social2: "",
+    //     desc: ""
+    //   },
   ];
 
 

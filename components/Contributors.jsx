@@ -52,6 +52,15 @@ function Contributors() {
       desc: "Be with your own limitless definetion",
     },
     {
+      id: 2102901550041,
+      name: "Vansh Goel",
+      img : "https://github.com/vanshgoel18.png",
+      role: "Contributor",
+      social1:"https://www.linkedin.com/in/vansh-goel-100928221/",
+      social2:"https://twitter.com/GoelVansh_19",
+      desc : " ",
+    },
+    {
       id: 5,
       name: "Kabir",
       img: "https://avatars.githubusercontent.com/u/147363110?v=4",
@@ -87,7 +96,6 @@ function Contributors() {
         social2: "https://github.com/PreritSaxena",
         desc: "Don't Get Motivated , get obsessed  "
       },
-// Use this template below
     {
           id: 2102900100080 ,
           name: "Manish Keshwani",
@@ -97,7 +105,6 @@ function Contributors() {
           social2: "https://www.linkedin.com/in/manish-kumar-keshwani-052b61243/",
           desc: "Once a nerd, always a nerd."
         },
-
     {
       id: 2202901540039,
           name: "Ashiya Rana",
@@ -116,8 +123,6 @@ function Contributors() {
         social2: "https://github.com/Shoto0095",
         desc: "Just testing things ;) "
     },
-
-
      {
         id: 2102901540039,
         name: "chirag sharma",
@@ -171,7 +176,8 @@ function Contributors() {
         social1: "https://twitter.com/pandeytwt?t=UlEC380rSrTVri0IM6otLw&s=09",
         social2: "https://github.com/VishaaLPandey",
         desc: "A Curious guy who is everywhere in Tech and Sports."
-      },
+
+    },
     {
         id: 2202900100147,
         name: "Rishikesh Gupta",

@@ -51,11 +51,20 @@ function Contributors() {
       social2: "https://www.linkedin.com/in/kabir-shukla-396247233/",
       desc: "Aspiring Jim Halpert"
     },
+    {
+      id: 2202901540039,
+          name: "Ashiya Rana",
+          img: "https://github.com/Ashiyarana12.png",
+          role: "Contributor",
+          social1: "https://www.linkedin.com/in/ashiya-rana-8ba667251/",
+          social2: "https://github.com/Ashiyarana12",
+          desc: "just testing "
+    },
 
 // Use this template below
 
     // {
-    //     id: ,
+    //     id: 2202901540039,
     //     name: "",
     //     img: "",
     //     role: "",

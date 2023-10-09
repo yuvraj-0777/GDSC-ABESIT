@@ -222,7 +222,33 @@ function Contributors() {
       social2: "https://www.linkedin.com/in/abhinav-gupta-cs/",
       desc: "You are the CSS to my HTML"
     },
+    {
+         id: 197 ,
+         name: "Yash Kaushik",
+         img: "",
+         role: "Contributor",
+         social1: "https://www.linkedin.com/in/yash-kaushik-45b200258",
+         social2: "",
+         desc: ""
+       },
      {
+        id:2202901550044 ,
+        name: "Maanvi Tyagi",
+        img: "https://avatars.githubusercontent.com/u/123249667?v=4",
+         role: "Contributer",
+        social1: "https://github.com/Maanvi025",
+         social2: "https://www.linkedin.com/in/maanvi-tyagi-70374224b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ",
+         desc: "inquisitive worm"
+      },
+ {
+      id: 2202900100115,
+      name: "Mayank Kumar",
+      img: "https://avatars.githubusercontent.com/u/126708321?v=4",
+      role: "Contributor",
+      social1: "https://x.com/mayk7983?t=FttankGMJoph69oxY6QPbw&s=09",
+      social2: ",https://www.linkedin.com/in/mayank-kumar-773602251",  
+    },
+ {
       id: 6,
       name: "Harshit",
       img: "https://avatars.githubusercontent.com/u/110588667?v=4.png",
@@ -231,9 +257,7 @@ function Contributors() {
       social2: "https://www.linkedin.com/in/harshit-keshari-932435239/",
       desc: "Aspiring Jim Halpert"
     },
-    
     // Use this template below
-
     // {
     //     id: 2202901540039,
     //     name: "",

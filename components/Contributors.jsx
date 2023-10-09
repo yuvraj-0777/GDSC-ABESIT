@@ -54,15 +54,15 @@ function Contributors() {
 
 // Use this template below
 
-    // {
-    //     id: ,
-    //     name: "",
-    //     img: "",
-    //     role: "",
-    //     social1: "",
-    //     social2: "",
-    //     desc: ""
-    //   },
+     {
+         id: 197 ,
+         name: "Yash Kaushik",
+         img: "",
+         role: "Contributor",
+         social1: "https://www.linkedin.com/in/yash-kaushik-45b200258",
+         social2: "",
+         desc: ""
+       },
   ];
 
 

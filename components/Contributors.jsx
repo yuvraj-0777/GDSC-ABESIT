@@ -52,6 +52,15 @@ function Contributors() {
       desc: "Aspiring Jim Halpert"
     },
     {
+      id: 2202901520127,
+      name: "Pulkit Gahlot",
+      img: "https://avatars.githubusercontent.com/u/87379387?s=400&u=5ed5f79d454863f8b3c2a44a6417709d250800c4&v=4",
+      role: "Contributor",
+      social1: "https://www.linkedin.com/in/pulkit-gahlot-399187251/",
+      social2: "https://twitter.com/Pulkit_1527",
+      desc: "Maybe/Maybe not :p"
+    },
+    {
       id:2202901520184,
       name:"vansh giri",
       img:"https://photos.fife.usercontent.google.com/pw/ADCreHcth-T82S-rDG9bXZKw3lRXIru3e5SFaTwKOutQq5RFvHG3g3tNmFAi=w164-h219-no?authuser=0",
@@ -59,7 +68,6 @@ function Contributors() {
       social1:"https://www.linkedin.com/in/vansh-giri-b8565b295/",
       social2:"https://github.com/",
       desc:"coding",
-
     },
     {
         id: 2102901550042,

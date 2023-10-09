@@ -24,6 +24,15 @@ function Contributors() {
       social2: "https://github.com/Ishaan2053",
       desc: "Secretive even when all he has to hide is a 10 ki chocolate"
     },
+    {
+      id: 4,
+      name: "Ganesh",
+      img : "https://github.com/gpratap608.png",
+      role: "Contributor",
+      social1:"https://twitter.com/ganeshontwt",
+      social2:"https://github.com/gpratap608",
+      desc : "Can be Painfully Sarcastic sometimes :)"
+    }
 
 // Use this template below
 

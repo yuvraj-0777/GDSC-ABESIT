@@ -57,10 +57,19 @@ function Contributors() {
       img:"https://photos.fife.usercontent.google.com/pw/ADCreHcth-T82S-rDG9bXZKw3lRXIru3e5SFaTwKOutQq5RFvHG3g3tNmFAi=w164-h219-no?authuser=0",
       role:"App Development Contributor",
       social1:"https://www.linkedin.com/in/vansh-giri-b8565b295/",
-      social2:"facebook id: vansh giri",
+      social2:"https://github.com/",
       desc:"coding",
 
-    }
+    },
+    {
+        id: 2102901550042,
+        name: "Vishal kumar Pandey",
+        img: "https://github.com/VishaaLPandey.png",
+        role: "Contributor",
+        social1: "https://twitter.com/pandeytwt?t=UlEC380rSrTVri0IM6otLw&s=09",
+        social2: "https://github.com/VishaaLPandey",
+        desc: "A Curious guy who is everywhere in Tech and Sports."
+      },
 
 // Use this template below
 

@@ -71,7 +71,6 @@ function Contributors() {
         desc: "Don't Get Motivated , get obsessed  "
       },
 // Use this template below
-
     {
           id: 2102900100080 ,
           name: "Manish Keshwani",
@@ -203,7 +202,15 @@ function Contributors() {
         social2: "https://github.com/24chirag",
         desc: "Frontend  developer as well as Machine learning enthusiast"
     },
-
+    {
+        id: 2202900100071,
+        name: "Darshil Kumar",
+        img: "https://avatars.githubusercontent.com/u/91634586?v=4",
+        role: "Contributor",
+        social1: "https://twitter.com/Darshil88505969",
+        social2: "https://www.linkedin.com/in/not-darshil-kumar/",
+        desc: "Life is too short for bad vibes."
+      },
   ];
 
 

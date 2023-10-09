@@ -52,6 +52,15 @@ function Contributors() {
       desc: "Aspiring Jim Halpert"
     },
 
+      {
+        id: "2021CSAi034",
+        name: "Prerit Saxena",
+        img: "https://avatars.githubusercontent.com/u/112962509?s=400&u=b3fd6fe26d13da948a5b0191d7aeca436baa4d5c&v=4",
+        role: "Full Stack Web Developer",
+        social1: "https://www.linkedin.com/in/prerit-saxena-930774229",
+        social2: "https://github.com/PreritSaxena",
+        desc: "Don't Get Motivated , get obsessed  "
+      },
 // Use this template below
 
     // {

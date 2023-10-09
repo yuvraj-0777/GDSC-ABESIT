@@ -240,6 +240,14 @@ function Contributors() {
          social2: "https://www.linkedin.com/in/maanvi-tyagi-70374224b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ",
          desc: "inquisitive worm"
       },
+ {
+      id: 2202900100115,
+      name: "Mayank Kumar",
+      img: "https://avatars.githubusercontent.com/u/126708321?v=4",
+      role: "Contributor",
+      social1: "https://x.com/mayk7983?t=FttankGMJoph69oxY6QPbw&s=09",
+      social2: ",https://www.linkedin.com/in/mayank-kumar-773602251",  
+    },
 
     // Use this template below
     // {

@@ -54,15 +54,15 @@ function Contributors() {
 
 // Use this template below
 
-    // {
-    //     id: ,
-    //     name: "",
-    //     img: "",
-    //     role: "",
-    //     social1: "",
-    //     social2: "",
-    //     desc: ""
-    //   },
+     {
+        id:2202901550044 ,
+        name: "Maanvi Tyagi",
+        img: "https://avatars.githubusercontent.com/u/123249667?v=4",
+         role: "Contributer",
+        social1: "https://github.com/Maanvi025",
+         social2: "https://www.linkedin.com/in/maanvi-tyagi-70374224b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ",
+         desc: "inquisitive worm"
+      },
   ];
 
 

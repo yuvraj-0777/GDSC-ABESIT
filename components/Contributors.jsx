@@ -54,15 +54,15 @@ function Contributors() {
 
 // Use this template below
 
-    // {
-    //     id: ,
-    //     name: "",
-    //     img: "",
-    //     role: "",
-    //     social1: "",
-    //     social2: "",
-    //     desc: ""
-    //   },
+    {
+        id: 2202900100147,
+        name: "Rishikesh Gupta",
+        img: "https://avatars.githubusercontent.com/u/112187328?v=4",
+        role: "Contributor",
+        social1: "https://www.instagram.com/pranjalll_x_beyonder/",
+        social2: "https://www.youtube.com/@beyonder001",
+        desc: "yup buddy!! all good ?"
+      },
   ];
 
 

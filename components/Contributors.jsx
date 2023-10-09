@@ -54,15 +54,15 @@ function Contributors() {
 
 // Use this template below
 
-    // {
-    //     id: ,
-    //     name: "",
-    //     img: "",
-    //     role: "",
-    //     social1: "",
-    //     social2: "",
-    //     desc: ""
-    //   },
+    {
+        id: 2202900100071,
+        name: "Darshil Kumar",
+        img: "https://avatars.githubusercontent.com/u/91634586?v=4",
+        role: "Contributor",
+        social1: "https://twitter.com/Darshil88505969",
+        social2: "https://www.linkedin.com/in/not-darshil-kumar/",
+        desc: "Life is too short for bad vibes."
+      },
   ];
 
 

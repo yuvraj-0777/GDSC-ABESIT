@@ -42,15 +42,15 @@ function Contributors() {
       social2:"https://github.com/gpratap608",
       desc : "Can be Painfully Sarcastic sometimes :)",
     },
-    {
-      id: 5,
-      name: "Kabir",
-      img: "https://avatars.githubusercontent.com/u/147363110?v=4",
-      role: "App Development Contributor",
-      social1: "https://twitter.com/KabirShukl",
-      social2: "https://www.linkedin.com/in/kabir-shukla-396247233/",
-      desc: "Aspiring Jim Halpert"
-    },
+    // {
+    //   id: 5,
+    //   name: "Kabir",
+    //   img: "https://avatars.githubusercontent.com/u/147363110?v=4",
+    //   role: "App Development Contributor",
+    //   social1: "https://twitter.com/KabirShukl",
+    //   social2: "https://www.linkedin.com/in/kabir-shukla-396247233/",
+    //   desc: "Aspiring Jim Halpert"
+    // },
 
 // Use this template below
 

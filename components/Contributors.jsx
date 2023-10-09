@@ -42,8 +42,25 @@ function Contributors() {
       social2:"https://github.com/gpratap608",
       desc : "Can be Painfully Sarcastic sometimes :)",
     },
+    {
+      id: 5,
+      name: "Kabir",
+      img: "https://avatars.githubusercontent.com/u/147363110?v=4",
+      role: "App Development Contributor",
+      social1: "https://twitter.com/KabirShukl",
+      social2: "https://www.linkedin.com/in/kabir-shukla-396247233/",
+      desc: "Aspiring Jim Halpert"
+    },
+    {
+        id: 2102901550042,
+        name: "Vishal kumar Pandey",
+        img: "https://github.com/VishaaLPandey.png",
+        role: "Contributor",
+        social1: "https://twitter.com/pandeytwt?t=UlEC380rSrTVri0IM6otLw&s=09",
+        social2: "https://github.com/VishaaLPandey",
+        desc: "A Curious guy who is everywhere in Tech and Sports."
+      },
 
-// Use this template below
 
     {
         id: "22029",
@@ -54,6 +71,15 @@ function Contributors() {
         social2: "https://www.instagram.com/amitv.147/",
         desc: "Memes Lover!!"
       },
+    {
+        id: 2102901540039,
+        name: "chirag sharma",
+        img: "https://media.licdn.com/dms/image/D5603AQGE3RWCobTtcA/profile-displayphoto-shrink_800_800/0/1674494672539?e=1702512000&v=beta&t=FBDX2pqcQsKCyZ5fHpjUM8jB2vSSCvrlnt_gB1INwn4",
+        role: "open source contributor",
+        social1: "https://twitter.com/itschirag24",
+        social2: "https://github.com/24chirag",
+        desc: "Frontend  developer as well as Machine learning enthusiast"
+    },
   ];
 
 

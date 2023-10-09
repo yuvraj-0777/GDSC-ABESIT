@@ -36,14 +36,23 @@ function Contributors() {
     {
       id: 4,
       name: "Ganesh",
-      img : "https://github.com/gpratap608.png",
+      img: "https://github.com/gpratap608.png",
       role: "Contributor",
-      social1:"https://twitter.com/ganeshontwt",
-      social2:"https://github.com/gpratap608",
-      desc : "Can be Painfully Sarcastic sometimes :)",
+      social1: "https://twitter.com/ganeshontwt",
+      social2: "https://github.com/gpratap608",
+      desc: "Can be Painfully Sarcastic sometimes :)",
+    },
+    {
+      id: 147,
+      name: "Vikash Kumar",
+      img: "https://github.com/Vikash-Rautela/PortfolioF/blob/master/src/assets/imageself.jpeg?raw=true",
+      role: "Contributor",
+      social1: "https://twitter.com/vikash-rautela",
+      social2: "https://github.com/Vikash-Rautela",
+      desc: "Be with your own limitless definetion",
     },
 
-// Use this template below
+    // Use this template below
 
     // {
     //     id: ,
@@ -57,8 +66,8 @@ function Contributors() {
   ];
 
 
-// Do not touch this return function guys!(ㆆ_ㆆ) 
-// Bahaut mehnat se banaya hai yaar. Upar jaao wapis （*＾-＾*）
+  // Do not touch this return function guys!(ㆆ_ㆆ) 
+  // Bahaut mehnat se banaya hai yaar. Upar jaao wapis （*＾-＾*）
   return (
     <div className="bg-white w-full py-5">
       <section className="container px-6 mx-auto">
@@ -105,8 +114,8 @@ function Contributors() {
                             {member.role}
                           </p>
                           <p className="mb-4 text-xs tracking-wide text-gray-400">
-                          {member.desc}
-                    </p>
+                            {member.desc}
+                          </p>
 
                           <div className="flex items-center justify-center space-x-3">
                             <SocialIcon

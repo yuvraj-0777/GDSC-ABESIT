@@ -51,6 +51,15 @@ function Contributors() {
       social2: "https://www.linkedin.com/in/kabir-shukla-396247233/",
       desc: "Aspiring Jim Halpert"
     },
+    {
+      id: 2202900100165,
+      name: "Shirshak Kumar",
+      img: "https://github.com/shirshakk.png",
+      role: "App Development Contributor",
+      social1: "https://twitter.com/kshirshak76",
+      social2: "https://www.linkedin.com/in/shirshak-kumar-5ba790253",
+      desc: "Aspiring Jim Halpert"
+    },
 
 // Use this template below
 

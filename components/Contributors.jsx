@@ -42,7 +42,6 @@ function Contributors() {
       social2:"https://github.com/gpratap608",
       desc : "Can be Painfully Sarcastic sometimes :)",
     },
-    
     {
       id: 2102901550041,
       name: "Vansh Goel",
@@ -51,6 +50,24 @@ function Contributors() {
       social1:"https://www.linkedin.com/in/vansh-goel-100928221/",
       social2:"https://twitter.com/GoelVansh_19",
       desc : " ",
+    },
+    {
+      id: 5,
+      name: "Kabir",
+      img: "https://avatars.githubusercontent.com/u/147363110?v=4",
+      role: "App Development Contributor",
+      social1: "https://twitter.com/KabirShukl",
+      social2: "https://www.linkedin.com/in/kabir-shukla-396247233/",
+      desc: "Aspiring Jim Halpert"
+    },
+    {
+        id: 2102901550042,
+        name: "Vishal kumar Pandey",
+        img: "https://github.com/VishaaLPandey.png",
+        role: "Contributor",
+        social1: "https://twitter.com/pandeytwt?t=UlEC380rSrTVri0IM6otLw&s=09",
+        social2: "https://github.com/VishaaLPandey",
+        desc: "A Curious guy who is everywhere in Tech and Sports."
     },
 
 // Use this template below

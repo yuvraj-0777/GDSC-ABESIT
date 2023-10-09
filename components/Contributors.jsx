@@ -60,6 +60,15 @@ function Contributors() {
       social2: "https://www.linkedin.com/in/kabir-shukla-396247233/",
       desc: "Aspiring Jim Halpert"
     },
+    {
+       id: 2102900100069,
+       name: "Khushi Sharma",
+       img: "https://media.licdn.com/dms/image/D5603AQG-xgh_HxEbQg/profile-displayphoto-shrink_800_800/0/1685025455265?e=1702512000&v=beta&t=lHmvIQr7UVogVEfzE4Wh-hI_edcLtPNJcOULXvx28TA",
+       role: "Web Developer",
+       social1: "https://twitter.com/ikhushisharmaa",
+       social2: "https://www.linkedin.com/in/khushisharma4/",
+       desc: "Always laughing at lame jokes, hehe."
+     },
 
       {
         id: "2021CSAi034",

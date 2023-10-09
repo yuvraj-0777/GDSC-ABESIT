@@ -58,7 +58,7 @@ function Contributors() {
        role: "Web Developer",
        social1: "https://twitter.com/ikhushisharmaa",
        social2: "https://www.linkedin.com/in/khushisharma4/",
-       desc: "Always laughing at lame jokes:)"
+       desc: "Always laughing at lame jokes, hehe."
      },
 
 // Use this template below

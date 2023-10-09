@@ -51,6 +51,16 @@ function Contributors() {
       social2: "https://www.linkedin.com/in/kabir-shukla-396247233/",
       desc: "Aspiring Jim Halpert"
     },
+    {
+      id:2202901520184,
+      name:"vansh giri",
+      img:"https://photos.fife.usercontent.google.com/pw/ADCreHcth-T82S-rDG9bXZKw3lRXIru3e5SFaTwKOutQq5RFvHG3g3tNmFAi=w164-h219-no?authuser=0",
+      role:"App Development Contributor",
+      social1:"https://www.linkedin.com/in/vansh-giri-b8565b295/",
+      social2:"facebook id: vansh giri",
+      desc:"coding",
+
+    }
 
 // Use this template below
 

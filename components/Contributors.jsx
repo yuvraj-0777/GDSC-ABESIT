@@ -52,6 +52,16 @@ function Contributors() {
       desc: "Aspiring Jim Halpert"
     },
 
+    {
+      id: 2202900100009,
+      name: "Abhinav Gupta",
+      img: "https://avatars.githubusercontent.com/u/132747736?v=4",
+      role: "Contributor",
+      social1: "https://linktr.ee/abhinav_cse",
+      social2: "https://www.linkedin.com/in/abhinav-gupta-cs/",
+      desc: "You are the CSS to my HTML"
+    },
+
 // Use this template below
 
     // {

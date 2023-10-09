@@ -222,9 +222,18 @@ function Contributors() {
       social2: "https://www.linkedin.com/in/abhinav-gupta-cs/",
       desc: "You are the CSS to my HTML"
     },
+     {
+         id: 197 ,
+         name: "Yash Kaushik",
+         img: "",
+         role: "Contributor",
+         social1: "https://www.linkedin.com/in/yash-kaushik-45b200258",
+         social2: "",
+         desc: ""
+       },
+
     
     // Use this template below
-
     // {
     //     id: 2202901540039,
     //     name: "",

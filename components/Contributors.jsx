@@ -42,6 +42,15 @@ function Contributors() {
       social2:"https://github.com/gpratap608",
       desc : "Can be Painfully Sarcastic sometimes :)",
     },
+    {
+    id: 2202900100138,
+        name: "Pratyush Mathur",
+        img: "https://github.com/Shoto0095.png",
+        role: "Contributor",
+        social1: "https://www.linkedin.com/in/pratyush-mathur-35a1a2251/",
+        social2: "https://github.com/Shoto0095",
+        desc: "Just testing things ;) "
+    },
 
 // Use this template below
 

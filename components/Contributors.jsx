@@ -69,7 +69,24 @@ function Contributors() {
       social2: "https://www.linkedin.com/in/kabir-shukla-396247233/",
       desc: "Aspiring Jim Halpert"
     },
-
+    {
+       id: 2102900100069,
+       name: "Khushi Sharma",
+       img: "https://media.licdn.com/dms/image/D5603AQG-xgh_HxEbQg/profile-displayphoto-shrink_800_800/0/1685025455265?e=1702512000&v=beta&t=lHmvIQr7UVogVEfzE4Wh-hI_edcLtPNJcOULXvx28TA",
+       role: "Web Developer",
+       social1: "https://twitter.com/ikhushisharmaa",
+       social2: "https://www.linkedin.com/in/khushisharma4/",
+       desc: "Always laughing at lame jokes, hehe."
+     },
+    {
+        id:2002900100107 ,
+        name: "Prakhar Sharma",
+        img: "https://media.licdn.com/dms/image/D4D35AQHgWi8m7f6mhg/profile-framedphoto-shrink_200_200/0/1694496829155?e=1697454000&v=beta&t=4oN4nz1IDv_IYDv9A7lTN8UcfsvjqqYOjCm_CRCcQt8",
+        role: "contributer",
+        social1: "www.linkedin.com/in/prakhar-sharma-96a831272",
+        social2: "",
+        desc: "Java developer,learner"
+    },
       {
         id: "2021CSAi034",
         name: "Prerit Saxena",
@@ -105,6 +122,15 @@ function Contributors() {
         social1: "https://www.linkedin.com/in/pratyush-mathur-35a1a2251/",
         social2: "https://github.com/Shoto0095",
         desc: "Just testing things ;) "
+    },
+     {
+        id: 2102901540039,
+        name: "chirag sharma",
+        img: "https://media.licdn.com/dms/image/D5603AQGE3RWCobTtcA/profile-displayphoto-shrink_800_800/0/1674494672539?e=1702512000&v=beta&t=FBDX2pqcQsKCyZ5fHpjUM8jB2vSSCvrlnt_gB1INwn4",
+        role: "open source contributor",
+        social1: "https://twitter.com/itschirag24",
+        social2: "https://github.com/24chirag",
+        desc: "Frontend  developer as well as Machine learning enthusiast"
     },
      {
         id: "2202900100070" ,
@@ -152,20 +178,6 @@ function Contributors() {
         desc: "A Curious guy who is everywhere in Tech and Sports."
 
     },
-
-// Use this template below
-
-    // {
-    //     id: ,
-    //     name: "",
-    //     img: "",
-    //     role: "",
-    //     social1: "",
-    //     social2: "",
-    //     desc: ""
-    //   },
-
-      },
     {
         id: 2202900100147,
         name: "Rishikesh Gupta",
@@ -202,6 +214,18 @@ function Contributors() {
         social2: "https://www.linkedin.com/in/not-darshil-kumar/",
         desc: "Life is too short for bad vibes."
       },
+    
+    // Use this template below
+
+    // {
+    //     id: 2202901540039,
+    //     name: "",
+    //     img: "",
+    //     role: "",
+    //     social1: "",
+    //     social2: "",
+    //     desc: ""
+    //   },
   ];
 
 

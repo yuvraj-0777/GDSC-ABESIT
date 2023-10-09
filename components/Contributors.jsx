@@ -54,6 +54,16 @@ function Contributors() {
 
 // Use this template below
 
+    {
+          id: 2102900100080 ,
+          name: "Manish Keshwani",
+          img: "https://avatars.githubusercontent.com/u/113196913?v=4",
+          role: "Web Developer",
+          social1: "https://twitter.com/keshwani2002",
+          social2: "https://www.linkedin.com/in/manish-kumar-keshwani-052b61243/",
+          desc: "Once a nerd, always a nerd."
+        },
+
     // {
     //     id: ,
     //     name: "",

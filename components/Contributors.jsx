@@ -45,15 +45,15 @@ function Contributors() {
 
 // Use this template below
 
-    // {
-    //     id: ,
-    //     name: "",
-    //     img: "",
-    //     role: "",
-    //     social1: "",
-    //     social2: "",
-    //     desc: ""
-    //   },
+    {
+        id: "22029",
+        name: "Amit Verma",
+        img: "https://github.com/amitverma147.png",
+        role: "Developer",
+        social1: "https://twitter.com/Amit_v6",
+        social2: "https://www.instagram.com/amitv.147/",
+        desc: "Memes Lover!!"
+      },
   ];
 
 

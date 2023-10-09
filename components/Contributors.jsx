@@ -124,13 +124,13 @@ function Contributors() {
         desc: "Just testing things ;) "
     },
      {
-        id: 2102901540039,
-        name: "chirag sharma",
-        img: "https://media.licdn.com/dms/image/D5603AQGE3RWCobTtcA/profile-displayphoto-shrink_800_800/0/1674494672539?e=1702512000&v=beta&t=FBDX2pqcQsKCyZ5fHpjUM8jB2vSSCvrlnt_gB1INwn4",
-        role: "open source contributor",
-        social1: "https://twitter.com/itschirag24",
-        social2: "https://github.com/24chirag",
-        desc: "Frontend  developer as well as Machine learning enthusiast"
+      id: 2202900100165,
+      name: "Shirshak Kumar",
+      img: "https://github.com/shirshakk.png",
+      role: "App Development Contributor",
+      social1: "https://twitter.com/kshirshak76",
+      social2: "https://www.linkedin.com/in/shirshak-kumar-5ba790253",
+      desc: "Aspiring Jim Halpert"
     },
      {
         id: "2202900100070" ,
@@ -176,7 +176,6 @@ function Contributors() {
         social1: "https://twitter.com/pandeytwt?t=UlEC380rSrTVri0IM6otLw&s=09",
         social2: "https://github.com/VishaaLPandey",
         desc: "A Curious guy who is everywhere in Tech and Sports."
-
     },
     {
         id: 2202900100147,

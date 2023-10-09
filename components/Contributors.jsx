@@ -51,6 +51,15 @@ function Contributors() {
       social2: "https://www.linkedin.com/in/kabir-shukla-396247233/",
       desc: "Aspiring Jim Halpert"
     },
+     {
+        id: "2202900100070" ,
+        name: "Daksh Agarwal",
+        img: "https://avatars.githubusercontent.com/u/133400136?v=4",
+        role: "Contributor",
+        social1: "https://www.linkedin.com/in/dakshagarwal5/",
+        social2: "https://twitter.com/Dakshagarwal_5",
+        desc: ""
+      },
 
 // Use this template below
 

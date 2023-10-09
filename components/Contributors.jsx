@@ -60,8 +60,15 @@ function Contributors() {
         social2: "https://github.com/VishaaLPandey",
         desc: "A Curious guy who is everywhere in Tech and Sports."
       },
-
-
+    {
+        id: 2202900100147,
+        name: "Rishikesh Gupta",
+        img: "https://avatars.githubusercontent.com/u/112187328?v=4",
+        role: "Contributor",
+        social1: "https://www.instagram.com/pranjalll_x_beyonder/",
+        social2: "https://www.youtube.com/@beyonder001",
+        desc: "yup buddy!! all good ?"
+      },
     {
         id: "22029",
         name: "Amit Verma",

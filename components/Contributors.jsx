@@ -42,6 +42,16 @@ function Contributors() {
       social2:"https://github.com/gpratap608",
       desc : "Can be Painfully Sarcastic sometimes :)",
     },
+    
+    {
+      id: 2102901550041,
+      name: "Vansh Goel",
+      img : "https://github.com/vanshgoel18.png",
+      role: "Contributor",
+      social1:"https://www.linkedin.com/in/vansh-goel-100928221/",
+      social2:"https://twitter.com/GoelVansh_19",
+      desc : " ",
+    },
 
 // Use this template below
 

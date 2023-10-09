@@ -52,17 +52,17 @@ function Contributors() {
       desc: "Aspiring Jim Halpert"
     },
 
-// Use this template below
+//Use this template below
 
-    // {
-    //     id: ,
-    //     name: "",
-    //     img: "",
-    //     role: "",
-    //     social1: "",
-    //     social2: "",
-    //     desc: ""
-    //   },
+    {
+        id:2202900100091 ,
+      name: "Himanshi Rana",
+      img: "https://avatars.githubusercontent.com/u/139847752?v=4",
+       role: "Contributor",
+       social1: "https://www.linkedin.com/in/himanshi-rana-b4b9b9251/",
+         social2: "https://github.com/himanshirana2403",
+        desc: ""
+       },
   ];
 
 

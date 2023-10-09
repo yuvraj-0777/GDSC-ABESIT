@@ -52,17 +52,17 @@ function Contributors() {
       desc: "Aspiring Jim Halpert"
     },
 
-// Use this template below
+//Use this template below
 
-    // {
-    //     id: ,
-    //     name: "",
-    //     img: "",
-    //     role: "",
-    //     social1: "",
-    //     social2: "",
-    //     desc: ""
-    //   },
+    {
+        id:2002900100107 ,
+        name: "Prakhar Sharma",
+        img: "https://media.licdn.com/dms/image/D4D35AQHgWi8m7f6mhg/profile-framedphoto-shrink_200_200/0/1694496829155?e=1697454000&v=beta&t=4oN4nz1IDv_IYDv9A7lTN8UcfsvjqqYOjCm_CRCcQt8",
+        role: "contributer",
+        social1: "www.linkedin.com/in/prakhar-sharma-96a831272",
+        social2: "",
+        desc: "Java developer,learner"
+      },
   ];
 
 

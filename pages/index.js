@@ -4,7 +4,8 @@ import Navbar from '@/components/Navbar'
 import Footer from '@/components/Footer'
 import TeamSection from '@/components/Team'
 import Contact from '@/components/Contact'
-import Contributors from '@/components/Contributors'
+import Image from 'next/image'
+import image2 from '@/assets/image2.png"
 import Head from 'next/head'
 
 const inter = Inter({ subsets: ['latin'] })
@@ -20,7 +21,7 @@ export default function Home() {
       <Hero />
       {/* Other components */}
       <TeamSection />
-     
+      <Image src={image2} />
       <Contact />
       <Footer />
     </main>

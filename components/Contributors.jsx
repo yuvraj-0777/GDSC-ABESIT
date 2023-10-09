@@ -25,14 +25,23 @@ function Contributors() {
       desc: "Secretive even when all he has to hide is a 10 ki chocolate"
     },
     {
+      id: 3,
+      name: "Pranav Tripathi",
+      img: "https://github.com/prnvtripathi.png",
+      role: "Web Developer",
+      social1: "https://x.com/prnvtwts",
+      social2: "https://github.com/prnvtripathi",
+      desc: "The guy who's always in a hurry",
+    },
+    {
       id: 4,
       name: "Ganesh",
       img : "https://github.com/gpratap608.png",
       role: "Contributor",
       social1:"https://twitter.com/ganeshontwt",
       social2:"https://github.com/gpratap608",
-      desc : "Can be Painfully Sarcastic sometimes :)"
-    }
+      desc : "Can be Painfully Sarcastic sometimes :)",
+    },
 
 // Use this template below
 
@@ -81,7 +90,7 @@ function Contributors() {
               {ContributorData &&
                 ContributorData.map((member) => {
                   return (
-                    <div>
+                    <div key={member.id}>
                       <div className="relative overflow-hidden transition duration-300 transform rounded shadow-lg lg:hover:-translate-y-2 hover:shadow-2xl">
                         <img
                           className="object-cover w-full h-56 md:h-64 xl:h-80"

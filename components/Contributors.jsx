@@ -60,6 +60,28 @@ function Contributors() {
       social2: "https://www.linkedin.com/in/kabir-shukla-396247233/",
       desc: "Aspiring Jim Halpert"
     },
+
+      {
+        id: "2021CSAi034",
+        name: "Prerit Saxena",
+        img: "https://avatars.githubusercontent.com/u/112962509?s=400&u=b3fd6fe26d13da948a5b0191d7aeca436baa4d5c&v=4",
+        role: "Full Stack Web Developer",
+        social1: "https://www.linkedin.com/in/prerit-saxena-930774229",
+        social2: "https://github.com/PreritSaxena",
+        desc: "Don't Get Motivated , get obsessed  "
+      },
+// Use this template below
+
+    // {
+    //     id: ,
+    //     name: "",
+    //     img: "",
+    //     role: "",
+    //     social1: "",
+    //     social2: "",
+    //     desc: ""
+    //   },
+
     {
       id: 2202901540039,
           name: "Ashiya Rana",
@@ -162,6 +184,16 @@ function Contributors() {
         social2: "https://www.instagram.com/amitv.147/",
         desc: "Memes Lover!!"
       },
+    {
+        id: 2102901540039,
+        name: "chirag sharma",
+        img: "https://media.licdn.com/dms/image/D5603AQGE3RWCobTtcA/profile-displayphoto-shrink_800_800/0/1674494672539?e=1702512000&v=beta&t=FBDX2pqcQsKCyZ5fHpjUM8jB2vSSCvrlnt_gB1INwn4",
+        role: "open source contributor",
+        social1: "https://twitter.com/itschirag24",
+        social2: "https://github.com/24chirag",
+        desc: "Frontend  developer as well as Machine learning enthusiast"
+    },
+
   ];
 
 

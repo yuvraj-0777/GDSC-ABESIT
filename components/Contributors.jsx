@@ -63,6 +63,15 @@ function Contributors() {
 
 
     {
+        id: "22029",
+        name: "Amit Verma",
+        img: "https://github.com/amitverma147.png",
+        role: "Developer",
+        social1: "https://twitter.com/Amit_v6",
+        social2: "https://www.instagram.com/amitv.147/",
+        desc: "Memes Lover!!"
+      },
+    {
         id: 2102901540039,
         name: "chirag sharma",
         img: "https://media.licdn.com/dms/image/D5603AQGE3RWCobTtcA/profile-displayphoto-shrink_800_800/0/1674494672539?e=1702512000&v=beta&t=FBDX2pqcQsKCyZ5fHpjUM8jB2vSSCvrlnt_gB1INwn4",

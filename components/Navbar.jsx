@@ -3,6 +3,7 @@ import Logo from "@/assets/Logo.png"
 import { Montserrat } from "next/font/google"
 import Link from "next/link"
 
+
 const montserrat = Montserrat({
     subsets: ["latin"],
     variants: ["400", "500", "600", "700", "800", "900"]
@@ -23,6 +24,7 @@ const Navbar = () => {
                 <li><Link href="#">Event</Link></li>
                 <li><Link href="#">Project</Link></li>
                 <li><Link href="#team">Team</Link></li>
+                <li><Link href="/Contributors">Contributors</Link></li>
             </ul>
         </nav>
     )

@@ -32,7 +32,16 @@ function Contributors() {
       social1: "https://x.com/prnvtwts",
       social2: "https://github.com/prnvtripathi",
       desc: "The guy who's always in a hurry",
-    }
+    },
+    {
+      id: 4,
+      name: "Ganesh",
+      img : "https://github.com/gpratap608.png",
+      role: "Contributor",
+      social1:"https://twitter.com/ganeshontwt",
+      social2:"https://github.com/gpratap608",
+      desc : "Can be Painfully Sarcastic sometimes :)",
+    },
 
 // Use this template below
 

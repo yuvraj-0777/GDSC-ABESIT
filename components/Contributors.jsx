@@ -61,7 +61,7 @@ function Contributors() {
         role: "Web  Development Contributor",
         social1: "https://twitter.com/aayush_506?t=1J7JPDuky9Utt2PwYifX-A&s=08",
         social2: "https://www.linkedin.com/in/aayush-chauhan-94556b246",
-        desc: "web3 learner"
+        desc: "web3 learner "
       },
   ];
 

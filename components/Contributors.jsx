@@ -51,6 +51,15 @@ function Contributors() {
       social2: "https://www.linkedin.com/in/kabir-shukla-396247233/",
       desc: "Aspiring Jim Halpert"
     },
+    {
+      id: 2202901520127,
+      name: "Pulkit Gahlot",
+      img: "https://avatars.githubusercontent.com/u/87379387?s=400&u=5ed5f79d454863f8b3c2a44a6417709d250800c4&v=4",
+      role: "Contributor",
+      social1: "https://www.linkedin.com/in/pulkit-gahlot-399187251/",
+      social2: "https://twitter.com/Pulkit_1527",
+      desc: "Maybe/Maybe not :p"
+    }
 
 // Use this template below
 

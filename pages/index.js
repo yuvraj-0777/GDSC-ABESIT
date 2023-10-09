@@ -5,7 +5,7 @@ import Footer from '@/components/Footer'
 import TeamSection from '@/components/Team'
 import Contact from '@/components/Contact'
 import Image from 'next/image'
-import image2 from '@/assets/image2.png"
+import image2 from '@/assets/image2.png'
 import Head from 'next/head'
 
 const inter = Inter({ subsets: ['latin'] })

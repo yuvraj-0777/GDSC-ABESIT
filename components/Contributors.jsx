@@ -59,19 +59,52 @@ function Contributors() {
       social1: "https://www.linkedin.com/in/pulkit-gahlot-399187251/",
       social2: "https://twitter.com/Pulkit_1527",
       desc: "Maybe/Maybe not :p"
-    }
-
-// Use this template below
-
-    // {
-    //     id: ,
-    //     name: "",
-    //     img: "",
-    //     role: "",
-    //     social1: "",
-    //     social2: "",
-    //     desc: ""
-    //   },
+    },
+    {
+      id:2202901520184,
+      name:"vansh giri",
+      img:"https://photos.fife.usercontent.google.com/pw/ADCreHcth-T82S-rDG9bXZKw3lRXIru3e5SFaTwKOutQq5RFvHG3g3tNmFAi=w164-h219-no?authuser=0",
+      role:"App Development Contributor",
+      social1:"https://www.linkedin.com/in/vansh-giri-b8565b295/",
+      social2:"https://github.com/",
+      desc:"coding",
+    },
+    {
+        id: 2102901550042,
+        name: "Vishal kumar Pandey",
+        img: "https://github.com/VishaaLPandey.png",
+        role: "Contributor",
+        social1: "https://twitter.com/pandeytwt?t=UlEC380rSrTVri0IM6otLw&s=09",
+        social2: "https://github.com/VishaaLPandey",
+        desc: "A Curious guy who is everywhere in Tech and Sports."
+      },
+    {
+        id: 2202900100147,
+        name: "Rishikesh Gupta",
+        img: "https://avatars.githubusercontent.com/u/112187328?v=4",
+        role: "Contributor",
+        social1: "https://www.instagram.com/pranjalll_x_beyonder/",
+        social2: "https://www.youtube.com/@beyonder001",
+        desc: "yup buddy!! all good ?"
+      },
+    {
+        id: "22029",
+        name: "Amit Verma",
+        img: "https://github.com/amitverma147.png",
+        role: "Developer",
+        social1: "https://twitter.com/Amit_v6",
+        social2: "https://www.instagram.com/amitv.147/",
+        desc: "Memes Lover!!"
+      },
+    {
+        id: 2102901540039,
+        name: "chirag sharma",
+        img: "https://media.licdn.com/dms/image/D5603AQGE3RWCobTtcA/profile-displayphoto-shrink_800_800/0/1674494672539?e=1702512000&v=beta&t=FBDX2pqcQsKCyZ5fHpjUM8jB2vSSCvrlnt_gB1INwn4",
+        role: "open source contributor",
+        social1: "https://twitter.com/itschirag24",
+        social2: "https://github.com/24chirag",
+        desc: "Frontend  developer as well as Machine learning enthusiast"
+    },
   ];
 
 

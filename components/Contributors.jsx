@@ -55,7 +55,7 @@ function Contributors() {
     {
       id: 2202900100009,
       name: "Abhinav Gupta",
-      img: "https://avatars.https://avatars.githubusercontent.com/u/132747736?v=4.com/u/132747736?v=4",
+      img: "https://avatars.githubusercontent.com/u/132747736?v=4",
       role: "Contributor",
       social1: "https://linktr.ee/abhinav_cse",
       social2: "https://www.linkedin.com/in/abhinav-gupta-cs/",

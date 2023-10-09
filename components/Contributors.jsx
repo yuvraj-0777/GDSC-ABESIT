@@ -51,6 +51,18 @@ function Contributors() {
       social2: "https://www.linkedin.com/in/kabir-shukla-396247233/",
       desc: "Aspiring Jim Halpert"
     },
+
+//Use this template below
+
+    {
+      id:2202900100091,
+      name: "Himanshi Rana",
+      img: "https://avatars.githubusercontent.com/u/139847752?v=4",
+      role: "Contributor",
+      social1: "https://www.linkedin.com/in/himanshi-rana-b4b9b9251/",
+      social2: "https://github.com/himanshirana2403",
+      desc: ""
+    },
     {
       id: 2202901520127,
       name: "Pulkit Gahlot",
@@ -105,6 +117,7 @@ function Contributors() {
         social2: "https://github.com/24chirag",
         desc: "Frontend  developer as well as Machine learning enthusiast"
     },
+
   ];
 
 

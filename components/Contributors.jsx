@@ -51,6 +51,15 @@ function Contributors() {
       social2: "https://www.linkedin.com/in/kabir-shukla-396247233/",
       desc: "Aspiring Jim Halpert"
     },
+    {
+      id: 2102901540084,
+      name: "Rahul Sahani",
+      img: "https://media.licdn.com/dms/image/D4D03AQGiFErUwRyFOQ/profile-displayphoto-shrink_400_400/0/1671350352942?e=1702512000&v=beta&t=4Z9i4EdT5R9PKhuhmNRMcXVEE1NXBa7ku94EzZxaQc4",
+      role: "Open Source Contributor",
+      social1: "https://github.com/Rahulsahani01",
+      social2: "https://www.linkedin.com/in/rahul-shahni-419a38250",
+      desc: "its not over when you lose, its over when you give up "
+    },
 
 // Use this template below
 

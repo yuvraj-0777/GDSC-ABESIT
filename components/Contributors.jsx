@@ -267,6 +267,15 @@ function Contributors() {
         social2: "https://www.linkedin.com/in/aayush-chauhan-94556b246",
         desc: "web3 learner "
       },
+      {
+        id: CR511729,
+        name: "Prateek Sinha",
+        img: "https://avatars.githubusercontent.com/u/111572443?v=4.png",
+        role: "Contributor",
+        social1: "https://x.com/hey_Patrickk?t=vKBQfObKBUzcFcPPHvOf0w&s=03",
+        social2: "www.linkedin.com/in/prateeksinha5100",
+        desc: "Learner"
+      },
 
     // Use this template below
     // {

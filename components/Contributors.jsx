@@ -285,6 +285,16 @@ function Contributors() {
         social2: "www.linkedin.com/in/prateeksinha5100",
         desc: "Learner"
       },
+      // 
+    {
+        id: 42069,
+        name: "Aditya Srivastava",
+        img: "https://github.com/IronicDeGawd.png",
+        role: "App Dev Team",
+        social1: "https://twitter.com/irony_aditya",
+        social2: "https://www.linkedin.com/in/aditya-srivastava-bb5008251/",
+        desc: "Nerdy ash, tinkering around"
+      },
 
     // Use this template below
     // {

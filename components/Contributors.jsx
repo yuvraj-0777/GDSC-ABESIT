@@ -58,7 +58,7 @@ function Contributors() {
       role: "Open Source Contributor",
       social1: "https://github.com/Rahulsahani01",
       social2: "https://www.linkedin.com/in/rahul-shahni-419a38250",
-      desc: "its not over when you lose, its over when you give up "
+      desc: "its not over when you lose, its over when you give up. "
     },
 
 // Use this template below

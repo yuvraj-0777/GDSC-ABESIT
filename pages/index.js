@@ -7,6 +7,7 @@ import Contact from '@/components/Contact'
 import Image from 'next/image'
 import image2 from '@/assets/image2.png'
 import Head from 'next/head'
+import PreviousEvents from '@/components/PreviousEvents'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -21,6 +22,7 @@ export default function Home() {
       <Hero />
       {/* Other components */}
       <TeamSection />
+      <PreviousEvents/>
       <Image src={image2} />
       <Contact />
       <Footer />

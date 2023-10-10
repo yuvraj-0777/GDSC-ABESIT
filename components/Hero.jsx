@@ -6,8 +6,8 @@ import { motion } from 'framer-motion';
 
 function Hero() {
   return (
-    <div className="h-screen" id='home'>
-      <Image src={Heroimage} alt="Cover Picture" fill={true} className='bg-cover bg-center h-fit opacity-50' />
+    <div className="h-screen w-full bg-black" id='home'>
+      <Image src={Heroimage} alt="Cover Picture" fill={true} className=' bg-cover bg-center h-fit opacity-50' />
       <section className="justify-center content-center z-50">
         <div className="mx-auto max-w-screen-xl px-4 py-28 lg:flex lg:h-screen lg:items-center text-black dark:text-gray-100">
           <motion.div

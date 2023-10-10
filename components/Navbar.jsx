@@ -2,6 +2,7 @@ import Image from "next/image"
 import Logo from "@/assets/Logo.png"
 import { Montserrat } from "next/font/google"
 import Link from "next/link"
+import ThemeButton from "./ThemeButton"
 
 
 const montserrat = Montserrat({
@@ -11,7 +12,7 @@ const montserrat = Montserrat({
 
 const Navbar = () => {
     return (
-        <nav className={`fixed flex items-center justify-around top-0 left-0 right-0 z-20 bg-opacity-90 bg-white text-black ${montserrat.className}`}>
+        <nav className={`fixed flex items-center justify-around top-0 left-0 right-0 z-20 bg-opacity-90 bg-white dark:bg-black text-black dark:text-white ${montserrat.className}`}>
             <div className="font-semibold">
                 <Link href="/">
                     <div className="flex items-center">
@@ -28,6 +29,7 @@ const Navbar = () => {
                 <li><Link href="/team">Team</Link></li>
                 <li><Link href="/Contributors">Contributors</Link></li>
             </ul>
+            <ThemeButton />
         </nav>
     )
 }

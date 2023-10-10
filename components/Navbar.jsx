@@ -83,7 +83,7 @@ const Navbar = () => {
                 isOpen ? "opacity-100 scale-y-100" : "opacity-0 scale-y-0"
               } absolute top-full left-0 right-0 md:hidden transition-all duration-300 transform origin-top ease-in-out bg-white bg-opacity-90`}
             >
-            <li className=" border-b-2 pl-10"><Link href="/">Home</Link></li>
+            <li className=" border-y-2 pl-10"><Link href="/">Home</Link></li>
             <li className=" border-b-2 pl-10"><Link href="/">Event</Link></li>
             <li className=" border-b-2 pl-10"><Link href="/">Project</Link></li>
             <li className=" border-b-2 pl-10"><Link href="/team">Team</Link></li>

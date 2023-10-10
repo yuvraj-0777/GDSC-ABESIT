@@ -51,18 +51,19 @@ function Contributors() {
       social2: "https://www.linkedin.com/in/kabir-shukla-396247233/",
       desc: "Aspiring Jim Halpert"
     },
+   
 
-// Use this template below
+   //Use this template below
 
-    // {
-    //     id: ,
-    //     name: "",
-    //     img: "",
-    //     role: "",
-    //     social1: "",
-    //     social2: "",
-    //     desc: ""
-    //   },
+     {
+         id:2102901540085,
+         name: "Rajeev Verma",
+         img: "https://media.licdn.com/dms/image/D4D03AQHsuasDRTtJBw/profile-displayphoto-shrink_400_400/0/1690446052323?e=1702512000&v=beta&t=SIpdD64-6Y2UNo7gdoaWcgb25IAYoagNzUcbZ4YGWq8",
+        role: "https://twitter.com/rajeevverma8510",
+        social1: "https://twitter.com/rajeevverma8510",
+        social2: "https://www.linkedin.com/in/rajeev-verma-24665b230/",
+         desc: "Never Give Up is my lifelong moto"
+       },
   ];
 
 

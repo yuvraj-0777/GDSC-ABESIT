@@ -1,5 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
+import Image from "next/image";
+import InProgress from "@/assets/InProgress.jpg";
 
 function PreviousEvents() {
   return (
@@ -17,9 +19,23 @@ function PreviousEvents() {
         className="w-4/5 mx-auto"
       >
         <h2 className="text-3xl md:text-4xl font-bold mt-6">Previous Events</h2>
-
-        <div className="flex flex-wrap justify-evenly items-center mt-12"></div>
-        <p>will be updated soon</p>
+        <motion.div
+          initial={{ opacity: 0, y: -50 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          transition={{
+            duration: 1,
+            type: "spring",
+            delay: 0.5,
+          }}
+          viewport={{ once: true }}
+        >
+          <Image
+            src={InProgress}
+            width={400}
+            height={400}
+            className="flex flex-col mx-auto m-20 hover:scale-105 transition"
+          />
+        </motion.div>
       </motion.div>
     </div>
   );

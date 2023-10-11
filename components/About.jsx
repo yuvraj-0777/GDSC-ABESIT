@@ -1,16 +1,16 @@
 import React from "react";
 import { SocialIcon } from "react-social-icons";
-import { motion} from "framer-motion";
+import { motion } from "framer-motion";
 
 function About() {
   const item = {
     hidden: {
       opacity: 0,
-      x: -50,
+      y: -50,
     },
     show: {
       opacity: 1,
-      x: 0,
+      y: 0,
       transition: {
         duration: 0.8,
       },
@@ -30,14 +30,13 @@ function About() {
   };
 
   return (
-    <motion.div
-      initial="hidden"
-      animate="show"
-      variants={variants}
-
-      className="children px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20 text-black"
-    >
-      <div className="flex flex-col lg:flex-row">
+    <div className="children px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20 text-black">
+      <motion.div
+        initial="hidden"
+        viewport={{once: true}}
+        whileInView="show"
+        className="flex flex-col lg:flex-row"
+      >
         <motion.div variants={item} className="max-w-xl pr-16 mx-auto mb-10">
           <h5 className="mb-6 text-3xl font-extrabold leading-none">
             GDSC ABESIT is inspired by Google's Developer Family.
@@ -111,8 +110,8 @@ function About() {
             </p>
           </motion.div>
         </div>
-      </div>
-    </motion.div>
+      </motion.div>
+    </div>
   );
 }
 

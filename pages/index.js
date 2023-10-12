@@ -21,7 +21,6 @@ export default function Home() {
       <Navbar />
       <Hero />
       {/* Other components */}
-      <TeamSection />
       <PreviousEvents/>
       <Image src={image2} />
       <Contact />

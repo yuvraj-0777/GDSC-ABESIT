@@ -18,7 +18,7 @@ function PreviousEvents() {
         viewport={{ once: true }}
         className="w-4/5 mx-auto"
       >
-        <h2 className="text-3xl md:text-4xl font-bold mt-6">Previous Events</h2>
+        <h2 className="text-3xl md:text-4xl font-bold mt-6"><span class='font-bold'>Previous Events</span></h2>
         <motion.div
           initial={{ opacity: 0, y: -50 }}
           whileInView={{ opacity: 1, y: 0 }}

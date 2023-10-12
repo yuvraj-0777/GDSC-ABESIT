@@ -321,7 +321,7 @@ function Contributors() {
   // Do not touch this return function guys!(ㆆ_ㆆ) 
   // Bahaut mehnat se banaya hai yaar. Upar jaao wapis （*＾-＾*）
   return (
-    <div className="bg-white w-full py-5">
+    <div className="bg-white dark:bg-black w-full py-5">
       <section className="container px-6 mx-auto">
         <motion.div
           initial={{ opacity: 0, y: 50 }}
@@ -331,11 +331,11 @@ function Contributors() {
         >
           <div className="px-4 pb-16 pt-0 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
             <div className="max-w-xl mb-10 md:mx-auto sm:text-center lg:max-w-2xl md:mb-12">
-              <h2 className="max-w-lg mb-6 font-sans text-3xl font-bold leading-none tracking-tight text-gray-900  sm:text-4xl md:mx-auto">
+              <h2 className="max-w-lg mb-6 font-sans text-3xl font-bold leading-none tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl md:mx-auto">
                 Our awesome{" "}
-                <span className="text-yellow-500">Contributors</span>
+                <span className="text-yellow-500 dark:text-blue-500">Contributors</span>
               </h2>
-              <p className="text-base text-gray-700 md:text-lg">
+              <p className="text-base text-gray-700 dark:text-gray-300 md:text-lg">
                 The list of people who've successfully contributed with this
                 hands-on workshop. Get your name on GDSC's website too!
               </p>

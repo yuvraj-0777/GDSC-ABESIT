@@ -2,10 +2,33 @@ import React from "react";
 import { motion } from "framer-motion";
 import Image from "next/image";
 import InProgress from "@/assets/InProgress.jpg";
+import { useTheme } from "next-themes";
 
 function PreviousEvents() {
+
+  const { resolvedTheme } = useTheme()
+  let src
+
+
+  // implement theme switcher by adding a image that fits the dark mode
+  // check next-themes documentation
+  // https://www.npmjs.com/package/next-themes#images
+
+  // switch (resolvedTheme) {
+  //   case 'light':
+  //     src = {InProgress}
+  //     break
+  //   case 'dark':
+  //     src = '/dark.png'
+  //     break
+  //   default:
+  //     src = {InProgress}
+  //     break
+  // }
+
+
   return (
-    <div className="h-full text-black w-full  text-center">
+    <div className="h-full text-black dark:text-white w-full py-24 text-center">
       <motion.div
         initial={{ opacity: 0, y: 50 }}
         whileInView={{ opacity: 1, y: 0 }}

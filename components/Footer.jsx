@@ -8,11 +8,11 @@ const Footer = () => {
     const date = new Date()
     const year = date.getFullYear()
     return (
-        <footer className="flex flex-col bg-slate-100 dark:bg-slate-900 text-gray-800 dark:text-gray-200 p-6 min-w-full">
+        <footer className="flex flex-col bg-slate-100 text-gray-800 p-6 min-w-full">
             <div className='w-5/6 mx-auto'>
                 <div className='flex gap-16 items-center ml-48'>
                     <p className='text-xs font-semibold'>Keep In Touch</p>
-                    <div className='flex justify-center items-center gap-3 text-xl text-gray-700 dark:text-gray-300'>
+                    <div className='flex justify-center items-center gap-3 text-xl text-gray-700'>
                         <Link href="#" className='transition hover:scale-105 hover:text-blue-500'><FaFacebook /></Link>
                         <Link href="#" className='transition hover:scale-105 hover:text-purple-500'><FaInstagram /></Link>
                         <Link href="#" className='transition hover:scale-105 hover:text-blue-400'><FaTwitter /></Link>
@@ -22,7 +22,7 @@ const Footer = () => {
                     </div>
                     <p>Email us: <a className='text-blue-600 hover:underline' href='mailto:dsc.abesit@gmail.com'>dsc.abesit@gmail.com</a></p>
                 </div>
-                <div className='flex text-gray-700 dark:text-gray-300 mt-6 text-sm justify-around'>
+                <div className='flex text-gray-700 mt-6 text-sm justify-around'>
                     <div className=''>
                         <div className='mb-3'><Link className='font-bold' href="#">ABOUT</Link></div>
                         <div><Link className='' href="#">GDG Noida</Link></div>

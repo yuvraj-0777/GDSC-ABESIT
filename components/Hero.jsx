@@ -19,7 +19,7 @@ function Hero() {
           >
             <Image src={Logo} width={200} height={200} alt="Cover Picture" className='mx-auto' />
             <h1 className="select-none text-3xl font-extrabold sm:text-5xl">
-              Google Developer Student Club ABESIT </h1>
+              Google Developer Student Club (GDSC) ABESIT </h1>
           </motion.div>
         </div>
       </section>

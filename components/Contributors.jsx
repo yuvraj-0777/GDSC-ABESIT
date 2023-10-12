@@ -312,7 +312,7 @@ function Contributors() {
             social1: "linkedin.com/in/yuvraj-singh-831540221",
             social2: "https://github.com/yuvraj-0777",
             desc: "Do everything you want whenever you get a chance"
-          },
+          }
 
     // Use this template below
     // {

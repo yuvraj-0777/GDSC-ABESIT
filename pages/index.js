@@ -8,7 +8,7 @@ import Image from 'next/image'
 import image2 from '@/assets/image2.png'
 import Head from 'next/head'
 import PreviousEvents from '@/components/PreviousEvents'
-import About from '@/components/About
+import About from '@/components/About'
 
 const inter = Inter({ subsets: ["latin"] });
 

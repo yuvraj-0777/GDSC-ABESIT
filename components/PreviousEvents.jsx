@@ -1,11 +1,11 @@
 import React from "react";
 import { motion } from "framer-motion";
 import Image from "next/image";
-import InProgress from "@/assets/InProgress.jpg";
+import InProgress from "@/assets/InProgress.png";
 
 function PreviousEvents() {
   return (
-    <div className="h-full text-black w-full  text-center">
+    <div className="h-full text-black w-full text-center">
       <motion.div
         initial={{ opacity: 0, y: 50 }}
         whileInView={{ opacity: 1, y: 0 }}

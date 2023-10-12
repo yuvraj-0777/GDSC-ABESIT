@@ -23,7 +23,7 @@ const Navbar = () => {
           <Link href="/">
             <div className="flex items-center">
               <Image src={Logo} alt="logo" width={60} />
-              <h2 className="text-lg md:text-xl ml-2">Google Developer Student Club</h2>
+              <h2 className="text-lg md:text-xl ml-2">Google Developer Student Club (GDSC)</h2>
             </div>
           </Link>
 

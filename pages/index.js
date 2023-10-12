@@ -21,6 +21,7 @@ export default function Home() {
       </Head>
       <Navbar />
       <Hero />
+      {/* Other components */}
       <About />
       <PreviousEvents />
       <Image src={image2} />

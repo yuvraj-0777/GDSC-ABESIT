@@ -304,6 +304,15 @@ function Contributors() {
         social2: "https://www.linkedin.com/in/rajeev-verma-24665b230/",
          desc: "Never Give Up is my lifelong moto"
        },
+       {
+            id:2102900100185,
+            name: "Yuvraj Singh",
+            img: "https://avatars.githubusercontent.com/u/91334605?s=400&u=07e5f62da52fe8cda7ee0555bf173608e0ff2195&v=4",
+            role: "Contributor",
+            social1: "linkedin.com/in/yuvraj-singh-831540221",
+            social2: "https://github.com/yuvraj-0777",
+            desc: "Do everything you want whenever you get a chance"
+          },
 
     // Use this template below
     // {

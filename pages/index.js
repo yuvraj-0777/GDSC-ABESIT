@@ -14,9 +14,8 @@ const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
   return (
-    <main
-      className={`flex min-h-screen flex-col items-center justify-between ${inter.className}`}
-    ><Head>
+    <main className={`flex min-h-screen flex-col items-center justify-between ${inter.className}`}>
+      <Head>
         <title>GDSC ABESIT</title>
       </Head>
       <Navbar />

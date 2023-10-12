@@ -285,7 +285,6 @@ function Contributors() {
         social2: "www.linkedin.com/in/prateeksinha5100",
         desc: "Learner"
       },
-      // 
     {
         id: 42069,
         name: "Aditya Srivastava",
@@ -316,7 +315,7 @@ function Contributors() {
 
     // Use this template below
     // {
-    //     id: ,
+    //     id:,
     //     name: "",
     //     img: "",
     //     role: "",

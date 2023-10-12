@@ -8,6 +8,7 @@ import Image from 'next/image'
 import image2 from '@/assets/image2.png'
 import Head from 'next/head'
 import PreviousEvents from '@/components/PreviousEvents'
+import About from '@/components/About'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -16,12 +17,13 @@ export default function Home() {
     <main
       className={`flex min-h-screen flex-col items-center justify-between ${inter.className}`}
     ><Head>
-      <title>GDSC ABESIT</title>
-    </Head>
+        <title>GDSC ABESIT</title>
+      </Head>
       <Navbar />
       <Hero />
       {/* Other components */}
-      <PreviousEvents/>
+      <About />
+      <PreviousEvents />
       <Image src={image2} />
       <Contact />
       <Footer />

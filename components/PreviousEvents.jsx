@@ -5,7 +5,7 @@ import InProgress from "@/assets/InProgress.jpg";
 
 function PreviousEvents() {
   return (
-    <div className="h-full text-black w-full py-24 text-center">
+    <div className="h-full text-black w-full  text-center">
       <motion.div
         initial={{ opacity: 0, y: 50 }}
         whileInView={{ opacity: 1, y: 0 }}

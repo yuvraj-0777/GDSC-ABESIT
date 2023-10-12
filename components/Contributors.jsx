@@ -246,7 +246,7 @@ function Contributors() {
       img: "https://avatars.githubusercontent.com/u/126708321?v=4",
       role: "Contributor",
       social1: "https://x.com/mayk7983?t=FttankGMJoph69oxY6QPbw&s=09",
-      social2: ",https://www.linkedin.com/in/mayank-kumar-773602251",  
+      social2: "https://www.linkedin.com/in/mayank-kumar-773602251",  
     },
  {
       id: 6,

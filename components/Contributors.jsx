@@ -305,14 +305,23 @@ function Contributors() {
          desc: "Never Give Up is my lifelong moto"
        },
        {
-            id:2102900100185,
-            name: "Yuvraj Singh",
-            img: "https://avatars.githubusercontent.com/u/91334605?s=400&u=07e5f62da52fe8cda7ee0555bf173608e0ff2195&v=4",
-            role: "Contributor",
-            social1: "linkedin.com/in/yuvraj-singh-831540221",
-            social2: "https://github.com/yuvraj-0777",
-            desc: "Do everything you want whenever you get a chance"
-          },
+        id:2102900100185,
+        name: "Yuvraj Singh",
+        img: "https://avatars.githubusercontent.com/u/91334605?s=400&u=07e5f62da52fe8cda7ee0555bf173608e0ff2195&v=4",
+        role: "Contributor",
+        social1: "https://linkedin.com/in/yuvraj-singh-831540221",
+        social2: "https://github.com/yuvraj-0777",
+        desc: "Do everything you want whenever you get a chance"
+      },
+      {
+           id: 10069,
+           name: "Irony.Aditya",
+           img: "https://github.com/0xAditya-Test.png",
+           role: "Contributor",
+           social1: "https://github.com/0xAditya-Test",
+           social2: "",
+           desc: "Nerd"
+        },
 
     // Use this template below
     // {
@@ -330,7 +339,7 @@ function Contributors() {
   // Do not touch this return function guys!(ㆆ_ㆆ) 
   // Bahaut mehnat se banaya hai yaar. Upar jaao wapis （*＾-＾*）
   return (
-    <div className="bg-white w-full py-5">
+    <div className="bg-white w-full py-6">
       <section className="container px-6 mx-auto">
         <motion.div
           initial={{ opacity: 0, y: 50 }}
@@ -354,7 +363,7 @@ function Contributors() {
               whileInView={{ opacity: 1, x: 0 }}
               transition={{ duration: 1, delay: 0.5 }}
               viewport={{ once: true }}
-              className="grid gap-10 sm:grid-cols-2 lg:grid-cols-4"
+              className="grid gap-10 sm:grid-cols-2 lg:grid-cols-5"
             >
               {" "}
               {ContributorData &&

@@ -309,10 +309,19 @@ function Contributors() {
         name: "Yuvraj Singh",
         img: "https://avatars.githubusercontent.com/u/91334605?s=400&u=07e5f62da52fe8cda7ee0555bf173608e0ff2195&v=4",
         role: "Contributor",
-        social1: "linkedin.com/in/yuvraj-singh-831540221",
+        social1: "https://linkedin.com/in/yuvraj-singh-831540221",
         social2: "https://github.com/yuvraj-0777",
         desc: "Do everything you want whenever you get a chance"
       },
+      {
+           id: 10069,
+           name: "Irony.Aditya",
+           img: "https://github.com/0xAditya-Test.png",
+           role: "Contributor",
+           social1: "https://github.com/0xAditya-Test",
+           social2: "",
+           desc: "Nerd"
+        },
 
     // Use this template below
     // {

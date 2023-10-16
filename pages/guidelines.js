@@ -7,11 +7,11 @@ const guidelines = () => {
         <div>
             <Navbar />
 
-            <div class='text-black my-5 flex flex-col mx-36 h-fit'>
+            <div class='text-black my-6 flex flex-col mx-36 h-fit'>
                 <div class='flex justify-center text-3xl my-10 font-bold'>
                     Community guidelines
                 </div>
-                <div class='space-y-5'>
+                <div class='space-y-6'>
                     <div class='text-lg font-bold'>
                         Google Community Guidelines and Anti-Harassment Policy for In-Person and Virtual Events
                     </div>
@@ -37,7 +37,6 @@ const guidelines = () => {
                     </div>
 
                     <div>
-
                         This policy extends to talks, forums, workshops, codelabs, social media, all attendees, partners, sponsors, volunteers, staff, etc. You catch our drift. Google reserves the right to refuse admittance to, or remove any person from, any Google hosted event (including future Google events) at any time in its sole discretion. This includes, but is not limited to, attendees behaving in a disorderly manner or failing to comply with this policy, and the terms and conditions herein. If a participant engages in harassing or uncomfortable behavior, the conference organizers may take any action they deem appropriate, including warning or expelling the offender from the conference with no refund or blocking the offender’s account from participating online.
                     </div>
                 </div>

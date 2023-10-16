@@ -304,6 +304,15 @@ function Contributors() {
         social2: "https://www.linkedin.com/in/rajeev-verma-24665b230/",
          desc: "Never Give Up is my lifelong moto"
        },
+       {
+           id: 10069,
+           name: "Irony.Aditya",
+           img: "https://github.com/0xAditya-Test.png",
+           role: "Contributor",
+           social1: "https://github.com/0xAditya-Test",
+           social2: "",
+           desc: "Nerd"
+        },
 
     // Use this template below
     // {
